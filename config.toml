@@ -1,4 +1,4 @@
 baseURL = "http://jungu.xyz/"
 languageCode = "zh-cn"
 title = "Jun's Blog"
-theme = "hugo-theme-diary"
+theme = "hugo-theme-terminal"
