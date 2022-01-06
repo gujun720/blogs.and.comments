@@ -1,8 +1,12 @@
 baseURL = "https://jungu.xyz/"
 languageCode = "zh-CN"
-title = "Jun's Blog"
+title = "三十斤闲白与正文"
 theme = "hugo-theme-diary"
 DefaultContentLanguage = "zh"
+googleAnalytics = "UA-215766715-2"
+
+[params]
+googleSearchCode = "538cd7a0cad502871"
 
 [[menu.main]]
 url = "/categories"
