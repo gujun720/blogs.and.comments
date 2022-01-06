@@ -2,7 +2,7 @@
 title: "拥抱“开源”"
 date: 2019-10-15T12:00:00+08:00
 draft: false
-tags: [开源,商业模式]
+tags: [开源,商业,商业模式]
 categories: [正文]
 ---
 

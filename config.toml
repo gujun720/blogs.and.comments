@@ -23,3 +23,7 @@ url = "/posts"
 name = "归档"
 weight = 3
 
+[[menu.main]]
+url = "/index.xml"
+name = "RSS Feed"
+weight = 4

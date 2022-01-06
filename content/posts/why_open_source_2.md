@@ -2,7 +2,7 @@
 title: "开源软件商业模式的探讨"
 date: 2019-10-18T12:00:00+08:00
 draft: false
-tags: [开源,商业模式]
+tags: [开源,商业,商业模式]
 categories: [正文]
 ---
 

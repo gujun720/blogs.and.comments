@@ -1,6 +1,6 @@
 ---
 title: "知乎问答：Hacker News 是怎样一个网站"
-date: 2022-01-06T11:52:32+08:00
+date: 2021-12-24T11:52:32+08:00
 draft: false
 tags: [社区]
 categories: [闲白]
