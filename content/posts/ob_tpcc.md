@@ -4,6 +4,7 @@ date: 2020-06-08T13:36:53+08:00
 draft: false
 tags: [技术,商业]
 categories: [闲白]
+canonicalUrl: https://www.zhihu.com/question/396219395/answer/1266574708
 ---
 
 原答案发布在知乎：

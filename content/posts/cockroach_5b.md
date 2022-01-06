@@ -4,6 +4,7 @@ date: 2021-12-17T13:48:25+08:00
 draft: false
 tags: [创业,商业]
 categories: [闲白]
+canonicalUrl: https://www.zhihu.com/question/66671707/answer/2277039998
 ---
 
 2021 年 12 月 16 日，Cockroach Labs 发布了新一轮的融资新闻：[Cockroach Labs keeps rolling with \$278M Series F on \$5B valuation](https://techcrunch.com/2021/12/16/cockroach-rolls-on-with-278m-series-f-on-5b-valuation/)

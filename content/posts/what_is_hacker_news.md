@@ -4,6 +4,7 @@ date: 2021-12-24T11:52:32+08:00
 draft: false
 tags: [社区]
 categories: [闲白]
+canonicalUrl: https://www.zhihu.com/question/19661127/answer/2284119532
 ---
 
 原答案发布在知乎：
