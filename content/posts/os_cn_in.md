@@ -4,6 +4,7 @@ date: 2021-12-14T14:12:11+08:00
 draft: false
 tags: [社区,开源]
 categories: [闲白]
+featured_image: "/img/gh_cn_in.jpg"
 canonicalUrl: https://zhuanlan.zhihu.com/p/445053151
 ---
 

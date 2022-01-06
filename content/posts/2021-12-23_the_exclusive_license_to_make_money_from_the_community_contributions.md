@@ -4,10 +4,9 @@ date: 2021-12-23T16:48:40+08:00
 draft: false
 tags: [开源,社区,en]
 categories: [闲白]
+description: "Are open source companies claiming too much from their contributors?"
 canonicalUrl: https://jungu.me/post/time-to-review-the-open-source-cla/
 ---
-
-> Are open source companies claiming too much from their contributors?
 
 ## Open source is hot
 
