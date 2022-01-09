@@ -261,6 +261,8 @@ BODY:
 
 minikube 的安装、验证工作已经完成。接下来几天，我将尝试部署 Kubeflow 和 KServe。
 
+## 有问题 [在这里讨论 🔗](https://mlops.org.cn/t/topic/51)
+
 ## 附：一些常用的 minikube 管理命令
 
 - Pause Kubernetes without impacting deployed applications:
