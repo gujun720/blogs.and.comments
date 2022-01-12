@@ -16,6 +16,10 @@ copyright = "2022 顾 钧"
   author = '顾钧 Jun Gu'
   description = "开源治理，社区运营，开源软件商业化，开发者关系，DevRel，MLOps"
   googleSearchCode = "538cd7a0cad502871"
+  enableDiscomment = true
+
+[params.discomment]
+  discourseUrl = "https://mlops.org.cn"
 
 [[menu.main]]
 url = "/posts/author/"
