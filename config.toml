@@ -1,7 +1,7 @@
 baseURL = "https://jungu.xyz/"
 languageCode = "zh-CN"
 title = "三十斤闲白与正文"
-theme = "hugo-theme-diary"
+theme = "diary"
 DefaultContentLanguage = "zh"
 googleAnalytics = "UA-215766715-2"
 hasCJKLanguage = true
