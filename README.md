@@ -1,2 +1,5 @@
-# cnblog
-Repo for my blog in Chinese
+# Blogs and comments
+
+Blogs: /posts
+Comments: in the issue tab
+
